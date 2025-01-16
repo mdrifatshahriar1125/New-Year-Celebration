@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+.firstbanner {
+  width: 1200px;
+  height: 520px;
+  background-image: url(images/Banner\ Image.png);
+  background-size: 1200px 520px;
+  border-radius: 16px;
+  border: none;
+  margin: auto;
+}
+.inside-firstbanner {
+  width: 1200px;
+  height: 520px;
+  border-radius: 16px;
+  border: none;
+  /* opacity: 0.3; if it use directly then the opper font would also be look black shadow */
+  background-color: rgba(0, 0, 0, 0.3);
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inside-firstbanner1 {
+  color: #ffffff;
+}
+.inside-firstbanner1 h2 {
+  /* padding-top: 130px; */
+  font-weight: 30px;
+}
+.firstbanner h1 {
+  width: 450px;
+  font-size: 60px;
+}
+.banner2 {
+  /* width: 500px; */
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  align-items: center;
+}
+.banner2 img {
+  width: 500px;
+  height: 300px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.inside-banner2 {
+  text-align: center;
+}
+.off {
+  color: red;
+  font-size: 40px;
+}
+
+.catagories {
+  font-size: 25px;
+  font-weight: 700;
+}
+.banner3 {
+  width: 1200px;
+  height: 520px;
+  background-image: url(images/Vectorrr.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 30px auto;
+  border-radius: 16px;
+  border: none;
+  display: flex;
+}
+.banner3-inside{
+    width: 1200px;
+    height: 520px; 
+    border-radius: 16px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+
+}
+.banner3 .site1{
+    width: 650px;
+    padding:90px 0 0 90px;
+    color: #FFFFFF;
+
+}
+.welcome{
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
+.welcome2{
+    color: #FFFFFF;
+    font: bold;
+    font-size: 25px;
+    padding-left: 35px;
+}
+.banner3 img{
+    width: 300px;
+    height: 450px;
+    padding: 35px 40px 20px 120px;
+    
+}
