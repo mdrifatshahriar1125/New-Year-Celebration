@@ -166,3 +166,37 @@ border: none;
     color: rgba(7, 2, 17, 0.6);
    
 }
+.banner6
+{
+    width: 1200px;
+    /* height: 850px; */
+    margin: 50px auto;
+    text-align: center;
+    /* background-color: rgb(40, 40, 43); */
+
+}
+.b6-section3{
+    width: 1200px;
+    /* height: 680px; */
+    background-image: url(images/Rectangle\ 2.png);
+    background-size: 1200px 200px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    
+}
+.b6-section3 .img1{
+ width: 600px;
+ height: 500px;   
+ /* margin-left: 100px; */
+} 
+.b6-section3 .img2{
+    width: 250px;
+    height: 250px;
+margin-left: 250px;
+padding-top: 40px;
+} 
+.bigfont{
+    font-size: 40px;
+    font-weight: bolder;
+}
