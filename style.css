@@ -200,3 +200,18 @@ padding-top: 40px;
     font-size: 40px;
     font-weight: bolder;
 }
+.banner7{
+    width: 1200px;
+    /* height: 680px;     */
+    /* margin: auto; */
+    margin: 130px auto;
+    /* line-height: 0.8em; */
+}
+.banner7-img{
+    padding-top: 30px;
+
+}
+.banner7 img{
+    width: 395px;
+
+}
